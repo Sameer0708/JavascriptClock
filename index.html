@@ -5,15 +5,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Clock Using Pure JavaScript</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Source+Sans+Pro&display=swap');
+      </style>
     <link rel="stylesheet" href="style.css">
-    <script src="clock.js"></script>
+    
 </head>
 <body>
     <div id="ClockContainer">
         <div id="hour"></div>
         <div id="minute"></div>
         <div id="second"></div>
-        
+    
+    <div class="container">
+        <b><div class="clock">
+            <h1><span id="hours">12</span>
+            <span>:</span>
+            <span id="minutes">60</span>
+            <span>:</span>
+            <span id="seconds">60</span>
+            <span id="am-or-pm">AM</span>
+        </h1></b></div>
     </div>
+          </div>
+    <script src="clock.js"></script>
 </body>
 </html>

@@ -28,7 +28,7 @@
 {
     width: 1.5%;
     height: 23%;
-    top: 36%;
+    top: 35.5%;
     left: 49.5%;
     opacity: 0.8;   
 }
@@ -40,4 +40,23 @@
     left: 49.3%;
     opacity: 0.8; 
 
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Orbitron',sans-serif;
+}
+h1
+{
+    padding-top: 0;
+    margin: 0;
+}
+.clock
+{
+    position: fixed; 
+    transform-origin: bottom;
+    display: flex;
+    top: 39pc;
+    padding-left: 11pc;
 }
