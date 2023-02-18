@@ -21,7 +21,7 @@
     width: 1.7%;
     height: 25%;
     top: 25%;
-    left: 48.6%;
+    left: 49%;
     opacity: 0.8;
 }
 #minute
@@ -29,14 +29,14 @@
     width: 1.5%;
     height: 33%;
     top: 16%;
-    left: 49.6%;
-    opacity: 0.8;  
+    left: 49%;
+    opacity: 0.8;    
 }
 #second
 {
     width: 1.1%;
     height: 36%;
-    top: 12.5%;
-    left: 49.5%;
-    opacity: 0.8;
+    top: 14%;
+    left: 49.3%;
+    opacity: 0.8;  
 }
