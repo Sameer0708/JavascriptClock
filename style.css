@@ -60,3 +60,17 @@ h1
     top: 39pc;
     padding-left: 11pc;
 }
+@media only screen and (max-width: 3000px)
+{
+    #ClockContainer
+    {
+        height: 1350px;
+        width: 1350px;
+        right: 100px;
+
+    }
+    #hours , #minutes , #seconds , #am-or-pm
+    {
+        display: contents;
+    }
+}
