@@ -73,4 +73,10 @@ h1
     {
         display: contents;
     }
+    .clock
+    {
+        padding-top: 50pc;
+        font-size: 40px;
+        right: 26pc;
+    }
 }
