@@ -64,10 +64,10 @@ h1
 {
     #ClockContainer,body
     {
-        height: 1900px;
-        width: 1900px;
+        height: 1800px;
+        width: 1800px;
         right: 100px;
-        left: 25px;
+        left: 20px;
         overflow: hidden;
         overflow-y: hidden;
         overflow-x: hidden; 
