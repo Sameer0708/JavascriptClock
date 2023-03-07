@@ -64,19 +64,20 @@ h1
 {
     #ClockContainer
     {
-        height: 1350px;
-        width: 1350px;
+        height: 1900px;
+        width: 1900px;
         right: 100px;
 
     }
     #hours , #minutes , #seconds , #am-or-pm
     {
         display: contents;
+        
     }
     .clock
     {
-        padding-top: 50pc;
-        font-size: 40px;
-        right: 26pc;
+        padding-top: 80pc;
+        font-size: 50px;
+        right: 25pc;
     }
 }
