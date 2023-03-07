@@ -62,11 +62,15 @@ h1
 }
 @media (max-width: 1500px)   
 {
-    #ClockContainer
+    #ClockContainer,body
     {
         height: 1900px;
         width: 1900px;
         right: 100px;
+        left: 70px;
+        overflow: hidden;
+        overflow-y: hidden;
+        overflow-x: hidden; 
 
     }
     #hours , #minutes , #seconds , #am-or-pm
